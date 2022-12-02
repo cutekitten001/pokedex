@@ -50,7 +50,7 @@ This is a very simple **pokedex** made with **HTML**, **CSS** and **JavaScript**
 
 ## 📑 License
 
-This project is under the MIT license. See the file [LICENSE](https://github.com/cutekitten001/landing_page_balle_bot/blob/main/LICENSE) for more details.
+This project is under the MIT license. See the file [LICENSE](https://github.com/cutekitten001/pokedex/blob/main/LICENSE) for more details.
 
 <br>
 
