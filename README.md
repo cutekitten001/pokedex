@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img src="./assets/img/screenshots/pokedex.gif" />
-  <a href="">Demo</a>
+  <a href="https://cutekitten001.github.io/pokedex/">Demo</a>
 </h1>
 
 <br>
